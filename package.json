@@ -1,0 +1,25 @@
+{
+  "name": "fuckingjs",
+  "version": "1.0.0",
+  "description": "Fucking JavaScript.",
+  "main": "fucking.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deralex/fuckingjs.git"
+  },
+  "keywords": [
+    "js",
+    "fuck",
+    "fucking",
+    "shit"
+  ],
+  "author": "Alexander Kluth <deralex@cpan.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deralex/fuckingjs/issues"
+  },
+  "homepage": "https://github.com/deralex/fuckingjs#readme"
+}
