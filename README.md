@@ -1,5 +1,4 @@
-![FuckingJS](https://photos-1.dropbox.com/t/2/AABjDPFmFf1W7DnEF3LXJWVm24882Zt5gSu17k3P1xBySA/12/721055932/png/32x32/1/_/1/2/fuckingjs.png/EID6k4sHGAcgAigC/-qNl4x9SDahNJ6OwZg2pwPIJ-1z8Ka8dfkQy9C2NrWs?preserve_transparency=1&size=32x32&size_mode=5)
-
+![FuckingJS](https://lh3.googleusercontent.com/yAKneAuk2kmXuZ_NyezbxCCfibHbFVIADk6mZ0HdsA2MBwd72gi1sthmHO5Gp074Fk2LRBs73Q05dg=w1918-h952)
 ## Welcome to FuckingJS!
 
 ### What does this crazy-shmazy thing do?
