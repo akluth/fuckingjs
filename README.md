@@ -1,5 +1,4 @@
-![FuckingJS]
-(https://www.dropbox.com/s/qyjnvlqg4d6fph2/fuckingjs.png?dl=0)
+![FuckingJS](https://www.dropbox.com/s/qyjnvlqg4d6fph2/fuckingjs.png?dl=0)
 
 ## Welcome to FuckingJS!
 
